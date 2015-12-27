@@ -96,11 +96,12 @@ namespace WebApplication1
 
             app.UseApplicationInsightsExceptionTelemetry();
 
-            app.UseStaticFiles();
+            
 
             app.UseIdentity();
 
             // To configure external authentication please see http://go.microsoft.com/fwlink/?LinkID=532715
+            app.UseStaticFiles();
 
             app.UseMvc(routes =>
             {
