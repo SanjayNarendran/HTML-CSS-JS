@@ -1,6 +1,7 @@
 # HTML-CSS-JS
 
 Repository containing study work on basic web creation work
+
 1. Basic HTML
 2. CSS to beautify the page 
 3. some JS to do some decent funtionality 
