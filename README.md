@@ -8,7 +8,6 @@ Repository containing study work on basic web creation work
 
 
 My ultimate goal 
-Explore and be comfortable with full 360 vision of technologies typically employed in an enterprice set up
 
 1. Web technologies - Client 
 2. Web technologies - Server
