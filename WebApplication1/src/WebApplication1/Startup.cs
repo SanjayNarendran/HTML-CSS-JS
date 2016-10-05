@@ -93,6 +93,7 @@ namespace WebApplication1
             }
 
             app.UseIISPlatformHandler(options => options.AuthenticationDescriptions.Clear());
+            //fghdghd
 
             app.UseApplicationInsightsExceptionTelemetry();
 
